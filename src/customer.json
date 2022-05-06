@@ -1,0 +1,135 @@
+ {
+"features": [
+  { "type": "Feature",
+    "properties": {
+      "ID": 1,
+      "NAME": "Crown Shy",
+      "DESCRIPTION": "Crown Shy is a neighborhood seasonal restaurant elevated by fine dining training and technique.",
+      "INFO": "Crown Shy is the first solo project of Chef James Kent and Restaurateur Jeff Katz. Inspired by James’ upbringing in downtown New York and his experience leading the city’s most celebrated kitchens, Crown Shy is a neighborhood seasonal restaurant elevated by fine dining training and technique. Located on the ground floor of Art Deco masterpiece 70 Pine Street, the dining room and bar occupy a series of rooms with floor to 16-foot-ceiling windows leading to an open kitchen. The food at Crown Shy is rooted in European technique but draws inspiration from around the world, primarily the flavors from our childhoods, traveling, and the diverse cuisine in New York City.",
+      "Image": "https://media.timeout.com/images/105441417/750/562/image.jpg",
+      "Cost": "Price range: $31 - $50", 
+      "PICTURES": ["https://media.timeout.com/images/105441417/750/562/image.jpg","https://cdn.vox-cdn.com/uploads/chorus_asset/file/22785958/Saga_2.jpg","https://cdn.vox-cdn.com/thumbor/7jDuImPkMnQsf8kmCssx_dh2i5c=/0x0:5760x3840/1320x0/filters:focal(0x0:5760x3840):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22786019/Saga_25.jpg", "https://infatuation.imgix.net/media/images/reviews/crown-shy/TeddyWolff.CrownShy.Socials.22.jpg?ar=4%3A3&auto=format&crop=entropy&fit=crop&q=65&w=640&ixlib=react-9.3.0"],
+      "LOCATION": "Location: Crown Shy, 70 Pine St, New York, NY 10005",
+      "HOURS": "Hours: Monday - Sunday from 5:30PM - 12:00AM",
+      "RES": "https://resy.com/cities/ny/crown-shy?date=2022-05-05&seats=2"
+      },
+    "geometry": {
+      "coordinates": [
+        -74.007771,
+        40.706504
+        
+      ]
+    }
+  },
+  { "type": "Feature",
+    "properties": {
+      "ID": 2,
+      "NAME": "Dhamaka",
+      "DESCRIPTION": "NYC’s dazzling best new Indian restaurant with dishes seldom seen on local menus.",
+      "INFO": "Chef and Partner Chintan Pandya and restaurateur Roni Mazumdar of the critically acclaimed Adda Indian Canteen are bringing Dhamaka, a new “Unapologetic Indian” restaurant serving provincial Indian cuisine to the new Essex Market.",
+      "Image": "https://media.timeout.com/images/105782761/750/562/image.jpg",
+      "Cost": "Price range: $9 to $33",
+      "PICTURES": ["https://www.nrn.com/sites/nrn.com/files/styles/article_featured_retina/public/Dhamaka_WEB-13_photo_by_Will_Ellis.jpeg?itok=ViF_F5rP", "https://infatuation.imgix.net/media/images/reviews/dhamaka/Dhamaka_WEB-1_photo_by_Will_Ellis.jpeg?ar=4%3A3&auto=format&crop=entropy&fit=crop&q=65&w=640&ixlib=react-9.3.0", "https://infatuation.imgix.net/media/images/reviews/dhamaka/Dhamaka_Gurda_Kapoora_Paul_McDonough.jpg?ar=4%3A3&auto=format&crop=entropy&fit=crop&q=65&w=640&ixlib=react-9.3.0", "https://cdn.vox-cdn.com/thumbor/Ngy2Lf0QhyIR9lUDWyGz3yp3zPg=/0x0:1800x1350/920x0/filters:focal(0x0:1800x1350):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22293234/AF_Dhamaka_GroupShot_4.jpg"],
+      "LOCATION": "Location: 119 Delancey Street, Essex Market, Store #34, New York, NY 10002",
+      "HOURS": "Hours: Tuesday – Sunday from 5:00PM – 10:00PM.",
+      "RES": "https://resy.com/cities/ny/dhamaka?date=2022-05-05&seats=2"
+       },
+    "geometry": {
+      "coordinates": [
+        -73.988130,
+        40.718066
+        
+      ]
+    }
+  },
+  { "type": "Feature",
+    "properties": {
+      "ID": 3,
+      "NAME": "Oxomoco",
+      "DESCRIPTION": "Michelin-starred Oxomoco focuses on wood-fired dishes. Taco options include beet 'chorizo,' fish and lamb varieties.",
+      "INFO": "Don’t let the easy-breezy vibe here fool you. Oxomoco is a serious dining room, capable of great things in its wood-fired oven. The attractive interior feels like a resort, with a long bar, giant skylight to maximize the sunlight of such a narrow space, and outdoor patio. The room is lively and packed but always conducive to conversation.",
+      "Image": "https://media.timeout.com/images/105323479/750/562/image.jpg",
+      "Cost": "Price range: $31 to $60",
+      "PICTURES": ["https://media.timeout.com/images/105323479/750/562/image.jpg", "https://fastly.4sqi.net/img/general/200x200/94759649_YPb_CPWQD-bXzi-f__WHge9jd8pegabZGh2T_XcKDu8.jpg", "https://greenerynyc.com/wp-content/uploads/2019/08/MG_9280-min-1200x1273.jpg", "https://cdn.vox-cdn.com/thumbor/lLlTlRDWDC_lT_zqfA9uSVmA23c=/0x500:3000x2000/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/12562605/Oxomoco_147.jpg"],
+      "LOCATION": "Location: 128 Greenpoint Ave, Brooklyn, NY 11222",
+      "HOURS": ["BRUNCH: 12:00 - 3:00PM WEDNESDAY - FRIDAY, 11:00 - 3:00PM SATURDAY & SUNDAY", "DINNER: 5:30 - 10:00PM 7 DAYS A WEEK"],
+      "RES": "https://resy.com/cities/ny/oxomoco?date=2022-05-05&seats=2"
+    },
+        "geometry": {
+          "coordinates": [
+            -73.955476,
+            40.729821
+    
+          ]
+        }
+      },
+      { "type": "Feature",
+        "properties": {
+          "ID": 4,
+          "NAME": "Van Da",
+          "DESCRIPTION": "A Vietnamese restaurant that lit up the neighborhood when it first opened in 2019 and earned accolades like a star in the New York Times.",
+          "INFO": "Van Da is a Vietnamese restaurant in the East Village with a lounge-like bar area on the ground floor, and a little basement dining room that will make you feel chic. It’s a cool spot, and sitting outside in the tented parklet is the perfect setting for catching up with a friend you haven’t seen in a year while making your way through a variety of regional Vietnamese dishes.",
+          "Image": "https://media.timeout.com/images/105436040/750/562/image.jpg",
+          "Cost": "Price range: $20 to $60",
+          "PICTURES": ["https://media.timeout.com/images/105436040/750/562/image.jpg", "https://static01.nyt.com/images/2019/06/19/dining/18rest1/18rest1-jumbo.jpg", "https://static01.nyt.com/images/2019/06/18/dining/18REST-slide-8O4W/18REST-slide-8O4W-jumbo.jpg", "https://fastly.4sqi.net/img/general/600x600/4351945_nHDeicAfkGkQW4SsxpQpCmCKNj1wf1nM-gM6tWh6d78.jpg"],
+          "LOCATION": "Location: 234 E. 4th St. (Avenue B), New York, NY 10009",
+          "HOURS": "Hours: Sunday - Wednesday from 5:00PM - 10:30PM, Thursday - Saturday from 5:00PM - 11:00PM",
+          "RES": "https://resy.com/cities/ny/van-da?date=2022-05-05&seats=2"
+           },
+        "geometry": {
+          "coordinates": [
+            -73.983118,
+            40.723362
+            
+          ]
+        }
+      },
+      { "type": "Feature",
+        "properties": {
+          "ID": 5,
+          "NAME": "Rangoon",
+          "DESCRIPTION": "What began as a Burmese cuisine pop-up by chef Myo Moe in 2015 became a brick-and-mortar restaurant in 2020. ",
+          "INFO": "Inspired by the casual yet elegant idea of a bistro, Rangoon brings you comfort food made from fresh and simple ingredients.The menu is limited to a handful of vibrant salads, soothing noodles, and curries that reflect the country's cross-cultural cooking influenced by neighbors like China, Thailand, and India.",
+          "Image": "https://media.timeout.com/images/105619443/750/562/image.jpg",
+          "Cost": "Price range: $31 to $50",
+          "PICTURES": ["https://media.timeout.com/images/105619443/750/562/image.jpg", "https://static01.nyt.com/images/2020/09/21/dining/21rangoon7/21rangoon7-mobileMasterAt3x-v2.jpg", "https://blog.resy.com/wp-content/uploads/2021/10/Mohinga-2000x1333.jpg", "https://static01.nyt.com/images/2020/09/23/dining/21rangoon3/merlin_176925204_5db6a954-3275-409e-9cdb-c06d992de2a7-jumbo.jpg?quality=75&auto=webp"],
+          "LOCATION": "Location: 500 Prospect Place, Brooklyn, NY 11238",
+          "HOURS": "Hours: Monday – Sunday from 6:00PM – 11:00PM.",
+          "RES": "https://resy.com/cities/ny/rangoon?date=2022-05-05&seats=2"
+        },
+        "geometry": {
+          "coordinates": [
+            -73.960102,
+            40.675641
+            
+          ]
+        }
+      },
+      { "type": "Feature",
+        "properties": {
+          "ID": 6,
+          "NAME": "Sofreh",
+          "DESCRIPTION": "One of NYC's few Persian restaurants where plates like roasted eggplant dip, beef kebab and rosewater sorbet shine bright.",
+          "INFO": "A small and simple space with an equally simple but meticulously crafted menu, Sofreh Cafe is first and foremost a bakery and tea house, though they also offer coffees and pastries. To that end, the tea at Sofreh Cafe is truly excellent—they offer a single house blend of fine black tea, mixed with a hint of cinnamon bark, imported rose petals and cardamom pods. They eventually plan to introduce Damnoosh teas, which are herbal teas made from a variety of herbs, medicinal plants, flowers, spices and fruits.",
+          "Image": "https://media.timeout.com/images/105280483/750/562/image.jpg",
+          "Cost": "Price range: $31 to $50",
+          "PICTURES": ["https://media.timeout.com/images/105280483/750/562/image.jpg", "https://pyxis.nymag.com/v1/imgs/1db/8aa/959b5be59052e3d472a1a81efcc49df733-sofreh-08.2x.h467.w700.jpg", "https://pyxis.nymag.com/v1/imgs/e8a/754/3eb139dd625387f85d3f1736bff7ee2597-sofreh-dishes.2x.h467.w700.jpg", "https://pyxis.nymag.com/v1/imgs/ca0/4eb/529ef8ea54341d8ba368318fdd214b90a3-sofreh-03.rsquare.w570.jpg"],
+          "LOCATION": "Location: 75 St Marks Ave, Brooklyn, New York 11217",
+          "HOURS": "Tuesday – Thursday and Sunday from 6:00PM – 10:00PM, Friday and Saturday from 6:00PM – 11:00PM",
+          "RES": "https://resy.com/cities/ny/sofreh?date=2022-05-05&seats=2"
+         },
+        "geometry": {
+          "coordinates": [
+            -73.973981,
+            40.679844
+            
+          ]
+        }
+      }
+      
+    ]
+  }
+
+
+
+
